@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCalculator", "WebCalculator\WebCalculator.csproj", "{9E6D29D3-C112-472D-97BE-834D2ECC4566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6D29D3-C112-472D-97BE-834D2ECC4566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6D29D3-C112-472D-97BE-834D2ECC4566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6D29D3-C112-472D-97BE-834D2ECC4566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6D29D3-C112-472D-97BE-834D2ECC4566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C56551E-5773-47B7-892C-5C66C39BE836}
+	EndGlobalSection
+EndGlobal
